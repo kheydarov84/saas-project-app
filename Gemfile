@@ -7,6 +7,8 @@ ruby '2.4.0'
 gem 'rails', '~> 5.2.2'
 gem 'devise'
 gem 'milia'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
